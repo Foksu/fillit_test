@@ -22,6 +22,11 @@ cat -e invalid1
 echo "And the output is: "
 ../fillit invalid1
 echo ""
+echo "Invalid 1 looks like this: "
+cat -e invalidvertical
+echo "And the output is: "
+../fillit invalidvertical
+echo ""
 echo "Invalid with bad character looks like this: "
 cat -e invalidbadchar
 echo "And the output is: "
