@@ -60,4 +60,4 @@ echo "And the output is: "
 echo ""
 
 echo "And now we should be getting stuck in really big file called Valid26:"
-../fillit valid25
+../fillit valid26
