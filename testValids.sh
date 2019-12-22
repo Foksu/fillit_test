@@ -59,5 +59,5 @@ echo "And the output is: "
 ../fillit validAllSquares
 echo ""
 
-echo "And now we should be getting stuck in really big file called Valid26:"
+echo "And now we might be getting stuck in really big file called Valid26:"
 ../fillit valid26
